@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T16:09:51.036Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZD6wjgMDMFX6cCGs8i_d" version="22.1.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T16:10:40.122Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kgORnqskedOJHQbWLcVH" version="22.1.13" type="github">
   <diagram name="Page-1" id="cc9SVtuZvTOHyXBjHd1u">
-    <mxGraphModel dx="2049" dy="2282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="cq845K4-0NDsHjAoLR2O-55" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2240" y="-40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cq845K4-0NDsHjAoLR2O-36" value="" style="endArrow=classic;html=1;rounded=0;" parent="cq845K4-0NDsHjAoLR2O-55" edge="1">
+        <mxCell id="cq845K4-0NDsHjAoLR2O-36" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="cq845K4-0NDsHjAoLR2O-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="40" as="sourcePoint" />
             <mxPoint x="20" as="targetPoint" />
@@ -103,7 +103,7 @@
         <mxCell id="cq845K4-0NDsHjAoLR2O-56" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2240" y="40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cq845K4-0NDsHjAoLR2O-57" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="cq845K4-0NDsHjAoLR2O-56" edge="1">
+        <mxCell id="cq845K4-0NDsHjAoLR2O-57" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="cq845K4-0NDsHjAoLR2O-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="40" as="sourcePoint" />
             <mxPoint x="20" as="targetPoint" />
@@ -112,7 +112,7 @@
         <mxCell id="cq845K4-0NDsHjAoLR2O-58" value="&lt;h4&gt;Depends on gradle script&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cq845K4-0NDsHjAoLR2O-56" vertex="1">
           <mxGeometry x="30" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HW10eFchwnDjr-zvBBHw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;strokeWidth=5;" edge="1" parent="1" source="cq845K4-0NDsHjAoLR2O-1" target="cq845K4-0NDsHjAoLR2O-44">
+        <mxCell id="HW10eFchwnDjr-zvBBHw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;strokeWidth=5;" parent="1" source="cq845K4-0NDsHjAoLR2O-1" target="cq845K4-0NDsHjAoLR2O-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
